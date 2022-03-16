@@ -4,7 +4,7 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-tactile
 url: https://defydatagravity.com
-Author: Faction, Inc. 
+author: "Faction, Inc."
 image:
   path: "/img/faction.png"
   height: 400
