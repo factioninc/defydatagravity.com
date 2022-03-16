@@ -1,6 +1,6 @@
 ## What is this?
 
-This is a easy way to use a memorable phrase landing page that embeds a tweet or post worth pondering.
+This is an easy way to use a memorable phrase landing page that embeds a tweet or post worth pondering.
 
 By using a simple [pull request](https://github.com/JayCuthrell/defydatagravity.com/pulls), anyone at [@factioninc](https://github.com/factioninc) can quickly embed a social media blurb at https://defydatagravity.com
 
