@@ -3,3 +3,10 @@ description: Words of wisdom from the folks at Faction
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-tactile
+author:
+  twitter: factioninc
+image:
+  path: /img/faction.png
+  height: 400
+  width: 400
+  alt: Faction Logo
