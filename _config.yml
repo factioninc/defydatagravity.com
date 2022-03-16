@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-seo-tag
+
 title: Defy Data Gravity
 description: Words of wisdom from the folks at Faction
 show_downloads: false
